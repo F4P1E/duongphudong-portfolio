@@ -167,7 +167,7 @@ const Portfolio = () => {
             <div className="grid md:grid-cols-2 gap-12 items-center">
               <div>
                 <p className="text-lg text-gray-300 leading-relaxed mb-6">
-                  I'm a passionate software engineering student with a strong
+                  I&apos;m a passionate software engineering student with a strong
                   foundation in modern web technologies. Currently in my fourth
                   year at RMIT University, I'm dedicated to creating efficient,
                   scalable, and user-friendly applications.
@@ -635,7 +635,7 @@ const Portfolio = () => {
 
             <div className="text-center">
               <p className="text-xl text-gray-300 mb-8 max-w-2xl mx-auto">
-                I'm always open to discussing new opportunities, collaborations,
+                I&apos;m always open to discussing new opportunities, collaborations,
                 or just having a chat about technology. Feel free to reach out!
               </p>
 
