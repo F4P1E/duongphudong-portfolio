@@ -39,9 +39,9 @@ const Portfolio = () => {
     return () => observer.disconnect();
   }, []);
 
-  const scrollToSection = (sectionId) => {
-    document.getElementById(sectionId)?.scrollIntoView({ behavior: "smooth" });
-  };
+const scrollToSection = (sectionId: string) => {
+  document.getElementById(sectionId)?.scrollIntoView({ behavior: "smooth" });
+};
 
   return (
     <div className="min-h-screen bg-black text-white overflow-x-hidden">
