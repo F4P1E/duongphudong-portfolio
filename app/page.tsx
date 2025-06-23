@@ -169,7 +169,7 @@ const Portfolio = () => {
                 <p className="text-lg text-gray-300 leading-relaxed mb-6">
                   I&apos;m a passionate software engineering student with a strong
                   foundation in modern web technologies. Currently in my fourth
-                  year at RMIT University, I'm dedicated to creating efficient,
+                  year at RMIT University, I&apos;m dedicated to creating efficient,
                   scalable, and user-friendly applications.
                 </p>
                 <p className="text-lg text-gray-300 leading-relaxed">
